@@ -1,2 +1,2 @@
-# Windows-Internals-7e-Part-1-and-2
-Windows Internals 7th Edition Part 1 and Part 2
+https://raw.githubusercontent.com/spedboyy/Windows-Internals-7e-Part-1-and-2/main/Windows_internals_part1.pdf
+https://raw.githubusercontent.com/spedboyy/Windows-Internals-7e-Part-1-and-2/main/Windows_internals_part2.pdf
